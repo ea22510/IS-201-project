@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(224, 221, 221);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+ul{
+    font-size: 20px;
+}
+.fun{
+    color: palevioletred;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    text-decoration:underline;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+.header{
+    text-decoration:underline;
+    color: black;
+    height: 50px;
+}
+.footer{
+    color: rgb(73, 70, 70);
+    height: 10px;
+    font-style: bold;
+
+
+}
